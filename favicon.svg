@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="29" fill="#f36b0a" stroke="#171613" stroke-width="3"/>
+  <circle cx="32" cy="32" r="24" fill="none" stroke="#fffaf3" stroke-width="1.5"/>
+  <g fill="none" stroke="#fffaf3" stroke-width="2.5" stroke-linecap="round">
+    <circle cx="32" cy="21" r="10"/>
+    <path d="M22 21h20M32 11c-3 3-4.5 6.3-4.5 10s1.5 7 4.5 10m0-20c3 3 4.5 6.3 4.5 10S35 28 32 31M32 31v3"/>
+  </g>
+  <path d="M16 37h32v12H16z" fill="#171613"/>
+  <text x="32" y="46" text-anchor="middle" fill="#fffaf3" font-family="Arial,sans-serif" font-size="11" font-weight="800" letter-spacing=".4">HE</text>
+</svg>
